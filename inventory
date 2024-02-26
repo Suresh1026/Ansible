@@ -9,6 +9,9 @@ Course="DevOps From inventory"
 Trainer="Shivakumar"
 Duration="110HRS"
 
+PERSON="Suresh from inventory"
+WISHES="Morning from inventory"
+
 [web]
 107.22.75.249
 
