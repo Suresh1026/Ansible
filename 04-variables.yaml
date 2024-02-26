@@ -1,3 +1,4 @@
+#PLAY level variable
 - name: varibales from PLAY level
   hosts: localhost
   vars:
