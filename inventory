@@ -1,6 +1,14 @@
 192.879.67.8
 192.879.67.3
 
+[localhost]
+localhost
+
+[localhost:vars]
+Course="DevOps from inventory"
+Trainer="Shivakumar"
+Duration="110HRS"
+
 [web]
 107.22.75.249
 
